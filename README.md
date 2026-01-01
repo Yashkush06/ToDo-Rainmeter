@@ -2,7 +2,7 @@ i was searching for a good todo widget for my pc for a long time can't find one 
 
 # Minimal Rainmeter To-Do List
 
-
+![Skin Preview](assets/preview.png)
 
 A clean, optimized, and aesthetic To-Do list skin for Rainmeter.
 
@@ -29,4 +29,5 @@ Features dynamic task addition, Clean aesthetics and 0% CPU usage.
 2\. Clone this repo into `Documents\\Rainmeter\\Skins\\`.
 
 3\. Refresh Rainmeter and load `ToDo.ini`.
+
 
