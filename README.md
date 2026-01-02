@@ -16,7 +16,7 @@ Features dynamic task addition, Clean aesthetics and 0% CPU usage.
 
 \- 🎨 \*\*Aesthetic:\*\* Dark mode, rounded corners, and vector graphics.
 
-\- 🛠 \*\*Dynamic:\*\* Lua-backed adding/deleting of tasks.
+\- 🛠 \*\*Dynamic:\*\* Lua-backed for adding/deleting of tasks.
 
 \- 🔒 \*\*Privacy:\*\* Local storage only.
 
@@ -29,5 +29,6 @@ Features dynamic task addition, Clean aesthetics and 0% CPU usage.
 2\. Clone this repo into `Documents\\Rainmeter\\Skins\\`.
 
 3\. Refresh Rainmeter and load `ToDo.ini`.
+
 
 
